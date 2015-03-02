@@ -1,10 +1,14 @@
 # foosball-booth
 
-Under table loss photo booth.
+Under table loss Raspberry Pi photo booth.
 
 <img src="https://lh5.googleusercontent.com/-sKpwKIGhaTs/VPSa91SeprI/AAAAAAAAPGo/lyrSCE8V4vA/w642-h868-no/IMG_20150302_181628.jpg" width="500px"/>
 
 ## Installation
+
+- Connect push button to Raspberry Pi GPIO pins
+
+<img src="https://raw.githubusercontent.com/fivdi/onoff/master/examples/light-switch.png">
 
 - Create a new Twitter app. https://apps.twitter.com/app/new
 - Create a new file `config.js` file. See `config.example.js`.
