@@ -1,0 +1,23 @@
+{
+    "name": "foosball-booth",
+    "description": "Under table loss photo booth.",
+    "version": "0.1.0",
+    "private": false,
+    "authors": ["Jan Antala <hello@janantala.com>"],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/janantala/foosball-booth.git"
+    },
+    "engines": {
+        "node": "0.10.x",
+        "npm": "1.4.x"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "node-twitter": "~0.5.2",
+        "onoff": "~1.0.2",
+        "raspicam": "~0.2.13"
+    }
+}

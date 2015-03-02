@@ -1,0 +1,10 @@
+'use strict';
+
+module.exports = {
+    'PIN': 14,
+    'CONSUMER_KEY': 'TWITTER_CONSUMER_KEY',
+    'CONSUMER_SECRET': 'TWITTER_CONSUMER_SECRET',
+    'TOKEN': 'TWITTER_TOKEN',
+    'TOKEN_SECRET': 'TWITTER_TOKEN_SECRET',
+    'STATUS_MESSAGE': 'Under table loss! #FOOSBALL'
+};
