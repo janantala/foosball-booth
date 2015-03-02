@@ -25,5 +25,11 @@ npm install
 You need to run this app under sudo in RPi.
 
 ```sh
-sudo npm index.js
+sudo node index.js
 ```
+
+## License
+
+The MIT License
+
+Copyright (c) 2015 [Jan Antala](http://www.janantala.com)
